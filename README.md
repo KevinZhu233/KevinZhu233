@@ -1,9 +1,14 @@
 # 👋 Hi, I’m @KevinZhu233
 ### Good
 - C++
+- Windows Dev
 ### OK
+- Unreal Engine
 - HTML/CSS/JS
-### eh
+## Learning
+- Windows internal
+- Reverse engineering
+### Acceptable
 - Most other languages
 
 <!---
