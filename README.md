@@ -1,15 +1,16 @@
 # 👋 Hi, I’m @KevinZhu233
 ### Good
 - C++
-- Windows Dev
 ### OK
+- Windows SDK
+- Java
+- Python
 - Unreal Engine
 - HTML/CSS/JS
 ### Learning
 - Windows internal
 - Reverse engineering
-### Acceptable
-- Most other languages
+
 
 <!---
 KevinZhu233/KevinZhu233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
