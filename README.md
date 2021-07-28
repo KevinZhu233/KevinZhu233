@@ -2,8 +2,6 @@
 ### Good
 - C++
 ### OK
-- Windows SDK
-- Java
 - Python
 - Unreal Engine
 - HTML/CSS/JS
